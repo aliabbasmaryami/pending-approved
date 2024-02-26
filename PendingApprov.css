@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Montserrat&family=Poppins:wght@300&display=swap');
+
+
+.pendingModal .modal-content {
+    width: 690px;
+    height: 530px !important;
+    border-radius: 32px;
+}
+.pendingModal .modal-header{
+    border-bottom: none;
+    padding: 28px;
+}
+.pending-main-first-child1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+   
+}
+.pending-main-first-child1 img{
+    width: 140px;
+    height: 140px;
+}
+.pending-main-first-child2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 23px;
+}
+.pending-main-first-child2 h3{
+    font-size: 34px;
+    font-weight: 700;
+    font-family: DM Sans;
+    color: #170F49;
+    margin-top: 8px;
+}
+.pending-main-first-child2 p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: DM Sans;
+    color: #6F6C90;
+}
+/* div3 */
+.pending-main-first-child3{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    margin-top: 10px;
+}
+.pending-main-first-child2 .btn1{
+width: 117px;
+height: 59px;
+border-radius: 6.22px;
+padding: 10px;
+border: none;
+color: white;
+background-color: #0C8CE9;
+font-size: 19.91px;
+font-weight: 500;
+font-family: DM Sans;
+
+}
+.pending-main-first-child2 .btn2{
+    width: 197.53px;
+    height: 59.84px;
+    border: 2.49px solid #0C8CE9;
+    color: #0C8CE9;
+    border-radius: 6.22px;
+    background-color: #fff;
+    font-size: 19.91px;
+    font-weight: 500;
+    font-family: DM Sans;
+
+}
